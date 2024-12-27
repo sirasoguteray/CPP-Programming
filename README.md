@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f279db15-ba5b-4b52-ab18-ab44da52fc32)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++ - Wikipedia" style="zoom:25%;" />
 
 # Introduction to C++
 
