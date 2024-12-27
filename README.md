@@ -70,9 +70,7 @@ Let’s create our first C++ program!
    **myfirstprogram.cpp**
    (**File > Save As**)
 
-
-   ```
-// myfirstprogram.cpp
+`// myfirstprogram.cpp
 
 #include <iostream>
 using namespace std;
@@ -80,5 +78,4 @@ using namespace std;
 int main() {
   cout << "Hello World!";
   return 0;
-}
-```
+}`
