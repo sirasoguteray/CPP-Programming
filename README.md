@@ -25,3 +25,60 @@ Since C++ shares similarities with **C#** and **Java**, it allows programmers to
 - **Graphics and Multimedia Packages**
 - **Network Drivers and Protocols**
 
+------
+
+### **C++ Compiler / IDE**
+
+To start programming in **C++**, you need two essential tools:
+
+1. **A Text Editor** – For writing C++ code (e.g., Notepad).
+2. **A Compiler** – For converting the C++ code into machine-readable instructions (e.g., **GCC**).
+
+Alternatively, you can use an **IDE (Integrated Development Environment)**, which combines both a code editor and a compiler, making it easier to write, edit, compile, and debug code.
+
+------
+
+### **Popular IDEs for C++**
+
+Some of the most widely used IDEs include:
+
+- **Code::Blocks**
+- **Eclipse**
+- **Visual Studio Code**
+
+These IDEs are **free** and support editing and debugging C++ programs efficiently.
+
+------
+
+### **Why Visual Studio Code?**
+
+In this project, I will be using **Visual Studio Code (VSCode)** as my development environment. I find it to be an excellent tool for beginners and experienced programmers alike.
+
+You can download the latest version of **VSCode** from:
+👉 https://code.visualstudio.com/
+
+------
+
+### **Quick Start Guide**
+
+Let’s create our first C++ program!
+
+1. Open **VSCode** and go to:
+   **File > New Text File**
+2. Write the following C++ code:
+3. Save the file as:
+   **myfirstprogram.cpp**
+   (**File > Save As**)
+
+
+   ```
+// myfirstprogram.cpp
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  return 0;
+}
+```
